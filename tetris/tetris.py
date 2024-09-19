@@ -15,7 +15,7 @@ screen_height = cell_size * rows
 
 # Create the screen
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Tetris')
+pygame.display.set_caption('Tetris by Luc Muhizi')
 
 # Colors (R, G, B)
 colors = {
